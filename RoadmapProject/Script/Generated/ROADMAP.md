@@ -63,7 +63,7 @@ Tapping on a link will take you to relevant materials.
                         - [x] [UIStackView](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/Autolayout/UIStackView/RESOURCES.md)
                 - [x] [Animations](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Animations/RESOURCES.md)
                 - [x] [Transform](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Transform/RESOURCES.md)
-                - [ ] [`Navigation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Navigation/RESOURCES.md)
+                - [x] [`Navigation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Navigation/RESOURCES.md)
                 - [ ] [`UIViewController`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/RESOURCES.md)
                     - [ ] [`Lifecycle`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/Lifecycle/RESOURCES.md)
             - [ ] [`Foundation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/RESOURCES.md)
