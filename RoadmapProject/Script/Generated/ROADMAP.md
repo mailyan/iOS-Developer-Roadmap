@@ -49,7 +49,7 @@ Tapping on a link will take you to relevant materials.
                 - [x] [Deadlock](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Deadlock/RESOURCES.md)
                 - [x] [Readers–writers problem](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Readers–writers_problem/RESOURCES.md)
         - [ ] `Cocoa Touch`
-            - [ ] [`UIKit`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/RESOURCES.md)
+            - [x] [`UIKit`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/RESOURCES.md)
                 - [x] [`UIApplication`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/RESOURCES.md)
                     - [x] [`States`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/States/RESOURCES.md)
                     - [x] [UIApplicationDelegate](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/UIApplicationDelegate/RESOURCES.md)
