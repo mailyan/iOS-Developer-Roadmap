@@ -48,7 +48,7 @@ Tapping on a link will take you to relevant materials.
                 - [x] [Race condition](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Race_condition/RESOURCES.md)
                 - [x] [Deadlock](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Deadlock/RESOURCES.md)
                 - [x] [Readers–writers problem](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Problems/Readers–writers_problem/RESOURCES.md)
-        - [ ] `Cocoa Touch`
+        - [x] `Cocoa Touch`
             - [x] [`UIKit`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/RESOURCES.md)
                 - [x] [`UIApplication`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/RESOURCES.md)
                     - [x] [`States`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/States/RESOURCES.md)
@@ -76,10 +76,10 @@ Tapping on a link will take you to relevant materials.
                     - [x] [`JSON`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/JSON/RESOURCES.md)
                     - [x] [XML](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/XML/RESOURCES.md)
                     - [x] [Protobuf](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Protobuf/RESOURCES.md)
-            - [ ] [UserNotifications](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UserNotifications/RESOURCES.md)
-            - [ ] [Core Location](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Location/RESOURCES.md)
-            - [ ] [Core Motion](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Motion/RESOURCES.md)
-            - [ ] [`Work in background mode`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Work_in_background_mode/RESOURCES.md)
+            - [x] [UserNotifications](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UserNotifications/RESOURCES.md)
+            - [x] [Core Location](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Location/RESOURCES.md)
+            - [x] [Core Motion](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Motion/RESOURCES.md)
+            - [x] [`Work in background mode`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Work_in_background_mode/RESOURCES.md)
         - [ ] `Software Architecture`
             - [ ] `Design Patterns`
                 - [ ] [`Cocoa`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Cocoa/RESOURCES.md)
