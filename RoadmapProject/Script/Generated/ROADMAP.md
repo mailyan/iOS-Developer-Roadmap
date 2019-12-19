@@ -99,11 +99,11 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Singleton
                     - [ ] Template Method
                     - [ ] MVC
-                - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
+                - [x] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
                     - [x] [`MVC`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVC/RESOURCES.md)
                     - [x] [`MVVM`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/MVVM/RESOURCES.md)
                     - [x] `MVP`
-                    - [ ] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
+                    - [x] [`Clean architecture`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RESOURCES.md)
                         - [x] [VIPER](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/VIPER/RESOURCES.md)
                         - [ ] [RIBs](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Clean_architecture/RIBs/RESOURCES.md)
                     - [x] [Coordinators](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/Coordinators/RESOURCES.md)
@@ -146,20 +146,20 @@ Tapping on a link will take you to relevant materials.
             - [x] [Cocoapods](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Cocoapods/RESOURCES.md)
             - [x] [Carthage](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Carthage/RESOURCES.md)
             - [x] [Swift Package Manager](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
-        - [ ] Project structure and File/Group organisation
-        - [ ] `Version Control Systems`
-            - [ ] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
-        - [ ] Debugging
-            - [ ] [Instruments](Resources/iOS_Developer/Practical_knowledge/Debugging/Instruments/RESOURCES.md)
-            - [ ] Best practices
-                - [ ] Checklists
+        - [x] Project structure and File/Group organisation
+        - [x] `Version Control Systems`
+            - [x] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
+        - [x] Debugging
+            - [x] [Instruments](Resources/iOS_Developer/Practical_knowledge/Debugging/Instruments/RESOURCES.md)
+            - [x] Best practices
+                - [x] Checklists
         - [ ] UX
         - [ ] `Caching and Persistency`
             - [ ] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
             - [ ] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
             - [ ] YAPDatabase
         - [ ] `Testing`
-            - [ ] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
+            - [x] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
             - [ ] Snapshot Tests
             - [ ] Functional test
             - [ ] [TDD](Resources/iOS_Developer/Practical_knowledge/Testing/TDD/RESOURCES.md)
@@ -175,9 +175,9 @@ Tapping on a link will take you to relevant materials.
             - [ ] Swiftlint
             - [ ] Sourcery
             - [ ] [Fastlane](Resources/iOS_Developer/Practical_knowledge/Tools/Fastlane/RESOURCES.md)
-        - [ ] Continuous Integration
+        - [x] Continuous Integration
             - [ ] Jenkins
-            - [ ] Xcode server
+            - [x] Xcode server
         - [ ] Security
             - [ ] [Keychain](Resources/iOS_Developer/Practical_knowledge/Security/Keychain/RESOURCES.md)
             - [ ] Security Transforms API
